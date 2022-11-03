@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=header"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
 
 <b> Oiii! Eu sou Carol Martins</b>
@@ -8,8 +9,8 @@
  - Quero me especializar em Desenvolvimento Front-end
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caroline-A-Martins&show_icons=true&count_private=true&hide_border=true&title_color=D8BFD8&icon_color=D8BFD8&text_color=FFFAFA&bg_color=0d1117" alt="Carol Martins github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-A-Martins&layout=compact&hide_border=true&title_color=D8BFD8&text_color=FFFAFA&bg_color=0d1117"/><br>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caroline-A-Martins&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=FFFAFA&bg_color=0d1117" alt="Carol Martins github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-A-Martins&layout=compact&hide_border=true&title_color=9370DB&text_color=FFFAFA&bg_color=0d1117"/><br>
   </div>
 
 <div align="center"> 
@@ -20,12 +21,12 @@
 
  <b>### Main skills:</b>
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"><br>
 </div>
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
 
