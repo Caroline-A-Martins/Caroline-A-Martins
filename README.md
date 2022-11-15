@@ -4,7 +4,6 @@
 
 <b> Oiii! Eu sou Carol Martins</b>
 
- - Começando no mundo da Programação
  - Cursando Analise e Desenvolvimento de Sistemas - ADS
  - Quero me especializar em Desenvolvimento Front-end
 
