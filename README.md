@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-Desenvolvedora Front-End no início da carreira apaixonada por tecnologia e design, sempre em busca de novos conhecimentos para aprimorar minha carreira.
+Sou desenvolvedora Front-End apaixonada por tecnologia e design. Tenho experiência com HTML, CSS e JavaScript, além de me aprofundar em UX Design para criar soluções digitais agradáveis e funcionais. Valorizo o aprendizado contínuo e a colaboração em equipe, e busco sempre crescer profissionalmente em um ambiente dinâmico e desafiador.
 
 ---
 
