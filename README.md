@@ -46,12 +46,10 @@ Sou desenvolvedora Front-End apaixonada por tecnologia e design. Tenho experiên
 | **AC** | Atividades de Curso        | Exercícios e entregas menores feitos durante disciplinas técnicas.         |
 | **BC** | Bootcamp                   | Projetos completos desenvolvidos em bootcamps, seguindo trilhas e propostas estruturadas. |
 | **CO** | Contribuições Open Source  | Participações em projetos de código aberto com foco em colaboração e comunidade. |
-| **DP** | Desafios Práticos          | Soluções para desafios de lógica, algoritmos ou plataformas como HackerRank, DevChallenge etc. |
 | **ES** | Estudos                    | Anotações, códigos e experimentações feitos durante o aprendizado individual de novas tecnologias. |
 | **FO** | Forks                      | Cópias de repositórios de terceiros utilizados para estudo ou contribuição. |
 | **PA** | Projetos Acadêmicos        | Projetos desenvolvidos na graduação, vinculados a disciplinas específicas. |
 | **PP** | Projetos Pessoais          | Projetos criados por iniciativa própria, explorando ideias ou interesses pessoais. |
-| **TCC**| Trabalho de Conclusão de Curso | Repositório exclusivo do TCC, com documentação e desenvolvimento do projeto final. |
 
 ---
 
