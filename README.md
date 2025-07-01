@@ -39,20 +39,19 @@ Sou desenvolvedora Front-End apaixonada por tecnologia e design. Tenho experiên
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caroline-A-Martins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="Linguagens mais usadas" />
 </div>
 
-### 📂 Minhas Categorias de Repositórios
+## 📁 Minhas Categorias de Repositórios
 
-| **Código** | **Categoria** | **Descrição**                                                                                                                                |
-|------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **PP** | **Projetos Pessoais** | Projetos criados por minha própria iniciativa, normalmente explorando novos conceitos ou áreas de interesse pessoal.                     |
-| **ES** | **Estudos** | Códigos e exercícios feitos durante cursos ou tutoriais online, com foco no aprendizado e crescimento contínuo.                                    |
-| **DP** | **Desafios Práticos** | Participação ativa em hackathons, bootcamps, ou outros desafios práticos, onde aplico conhecimentos em situações desafiadoras.           |
-| **CO** | **Contribuições Open Source** | Repositórios onde contribuo para projetos de código aberto, ajudando a melhorar e expandir a comunidade.                         |
-| **TCC** | **Trabalho de Conclusão de Curso** | Repositório dedicado ao meu TCC, com todo o progresso e desenvolvimento do projeto de conclusão de curso (futuro).         |
-| **BC** | **Bootcamp** | Projetos, exercícios e atividades realizadas durante bootcamps, focados no desenvolvimento rápido e aprendizado intensivo.                        |
-| **FO** | **Forks** | Repositórios onde fiz fork de projetos existentes, seja para estudar ou colaborar com melhorias e contribuições.                                     |
-| **PA** | **Projetos Acadêmicos** | Projetos desenvolvidos durante minha graduação, abrangendo atividades acadêmicas e trabalhos de disciplinas específicas.               |
-| **AC** | **Atividades de Curso** | Códigos e atividades realizadas como parte de cursos específicos online, visando o aprendizado de novas ferramentas e técnicas.        |
-| **CF** | **Códigos de Faculdade** | Códigos criados na faculdade, mas que não estão ligados diretamente a uma atividade acadêmica específica.                             |
+| Código | Categoria                  | Descrição                                                                 |
+|--------|----------------------------|---------------------------------------------------------------------------|
+| **AC** | Atividades de Curso        | Exercícios e entregas menores feitos durante disciplinas técnicas.         |
+| **BC** | Bootcamp                   | Projetos completos desenvolvidos em bootcamps, seguindo trilhas e propostas estruturadas. |
+| **CO** | Contribuições Open Source  | Participações em projetos de código aberto com foco em colaboração e comunidade. |
+| **DP** | Desafios Práticos          | Soluções para desafios de lógica, algoritmos ou plataformas como HackerRank, DevChallenge etc. |
+| **ES** | Estudos                    | Anotações, códigos e experimentações feitos durante o aprendizado individual de novas tecnologias. |
+| **FO** | Forks                      | Cópias de repositórios de terceiros utilizados para estudo ou contribuição. |
+| **PA** | Projetos Acadêmicos        | Projetos desenvolvidos na graduação, vinculados a disciplinas específicas. |
+| **PP** | Projetos Pessoais          | Projetos criados por iniciativa própria, explorando ideias ou interesses pessoais. |
+| **TCC**| Trabalho de Conclusão de Curso | Repositório exclusivo do TCC, com documentação e desenvolvimento do projeto final. |
 
 ---
 
